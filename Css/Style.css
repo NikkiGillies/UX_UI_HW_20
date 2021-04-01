@@ -17,8 +17,6 @@ colour: yellow;
     position: fixed;
 }
 
-.col-md-4 {
-    float: center
 }
     
 /* Jumbotron  */
@@ -37,3 +35,8 @@ colour: yellow;
       }
 }
 
+.prototype {
+    padding-left: 15%;
+    align-items: center;
+    justify-content: center;
+}
