@@ -1,0 +1,39 @@
+/*Text */
+h1, h2, h3, h4, h5, h6 {
+    font-family: less;
+}
+
+/* Navigation links */
+.navigation {
+    color: blueviolet;
+}
+
+.background {
+colour: yellow;
+}
+
+.navigation flex-column {
+    float: left
+    position: fixed;
+}
+
+.col-md-4 {
+    float: center
+}
+    
+/* Jumbotron  */
+.jumbotron rockBackground {
+    background-image: url("C:\Users\nikki\OneDrive\Desktop\Coding - activities\Homework\UX_UI_HW_20\UX_UI_HW_20\Images\Jumbo.PNG");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: calc(60vh - 25px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.team1 {
+
+      }
+}
+
